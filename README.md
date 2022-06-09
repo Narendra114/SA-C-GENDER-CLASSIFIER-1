@@ -1,5 +1,5 @@
-# SKILL ASSESSMENT
-### GENDER-CLASSIFIER
+#                         SKILL ASSESSMENT
+###                      GENDER-CLASSIFIER
 # Algorithm
 1.Import the necessary packages.
 2.Read the input values like height,weight,shoe_size.
