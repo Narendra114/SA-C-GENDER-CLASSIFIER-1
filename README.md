@@ -33,6 +33,10 @@ Y = ['male', 'male', 'female', 'female', 'male', 'male', 'female', 'female',
 test_data = [[190, 70, 43],[154, 75, 42],[181,65,40]]
 test_labels = ['male','male','male']
 
+
+
+###DEMO YOUTUBE LINK
+https://youtu.be/QW3RmAEgv2w
 #DecisionTreeClassifier
 dtc_clf = tree.DecisionTreeClassifier()
 dtc_clf = dtc_clf.fit(X,Y)
