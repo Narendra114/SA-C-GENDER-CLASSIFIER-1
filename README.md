@@ -75,7 +75,6 @@ print(classifiers[max_acc] + ' is the best classifier for this problem')
 
 ## OUTPUT:
 
-![Screenshot (10)](https://user-images.githubusercontent.com/78737336/172795246-fd14b5f9-4ed6-43fc-9e69-ca78f8d5c797.png)
+![image](https://user-images.githubusercontent.com/78774336/173183322-f3dbef81-786f-4e41-abba-717e7296c0d8.png)
 
-DEMO
-https://youtu.be/QW3RmAEgv2w
+
