@@ -12,8 +12,8 @@
 ```
 /*
 Program to implement 
-Developed by   :  DARISI VENKATA VEERA SOMASEKHAR
-RegisterNumber :  212219040024
+Developed by   :  BONAMSETTI NAGA NARENDRA
+RegisterNumber :  212219040016
 */
 import numpy as np
 from sklearn import tree
